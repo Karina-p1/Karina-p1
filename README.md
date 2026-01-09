@@ -84,20 +84,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karina-p1&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-## 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karina-p1&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karina-p1&theme=tokyonight"/>
@@ -105,12 +91,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karina-p1&theme=onedark"/>
-</p>
-
----
 
 <p align="center">
   ⭐ Thank you for visiting my profile ⭐
