@@ -84,15 +84,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karina-p1&theme=tokyonight"/>
-</p>
-
----
-
-
 <p align="center">
   ⭐ Thank you for visiting my profile ⭐
 </p>
-
