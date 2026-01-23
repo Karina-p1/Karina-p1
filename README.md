@@ -31,7 +31,13 @@
 📫 **Email:** `karinapaudel6@gmail.com`
 
 ---
+## 🚀 My Deployed Projects
 
+### Django Book Management System
+A simple Book Management System built with Django and Bootstrap.  
+Check out my live project here: [View Live on Render](https://django-project-pwpq.onrender.com/)
+
+---
 ## 🤝 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/karina-paudel-393599215" target="_blank">
