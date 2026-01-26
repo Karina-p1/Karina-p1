@@ -36,7 +36,6 @@
 <p>
   🎓 BIT Student at <b>Gandaki University</b><br>
   💻 Interested in <b>Data Analytics, Web Development & Cybersecurity</b><br>
-  🌱 Currently learning <b>Python, Django, Docker & AWS</b><br>
   🚀 Love building practical academic & personal projects<br>
   📍 Based in Nepal 🇳🇵
 </p>
