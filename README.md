@@ -13,6 +13,9 @@
   <a href="https://instagram.com/karina_paudel">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="mailto:karinapaudel6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -23,35 +26,41 @@
 
 <!-- ===================== GITHUB STATS ===================== -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=karina-p1&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karina-p1&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karina-p1&show_icons=true&theme=radical&count_private=true&hide_rank=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karina-p1&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 BIT Student at **Gandaki University**
-- 🌱 Currently learning **Python & Django**
-- 💻 Interested in **Data Analytics, Web Development & Cybersecurity**
-- 🚀 Love building practical academic & personal projects
-- 📍 Based in Nepal 🇳🇵
-
-📫 **Email:** `karinapaudel6@gmail.com`
-
----
-
-## 🚀 My Projects
-
-### Django Book Management System
-A simple Book Management System built with Django and Bootstrap.  
-**Live Project:** [View on Render](https://django-project-pwpq.onrender.com/)
+<p>
+  🎓 BIT Student at <b>Gandaki University</b><br>
+  💻 Interested in <b>Data Analytics, Web Development & Cybersecurity</b><br>
+  🌱 Currently learning <b>Python, Django, Docker & AWS</b><br>
+  🚀 Love building practical academic & personal projects<br>
+  📍 Based in Nepal 🇳🇵
+</p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🚀 Interests & Learning
+<p>
+  <b>🌟 Interests:</b> Web Development (Frontend & Backend), Cloud Computing (AWS), DevOps & Automation, Open-source contributions<br>
+ 🌱 Currently Learning & Skills in Progress
+<p>
+  🐍 Python & Django<br>
+  🐳 Docker & CI/CD<br>
+  ⚙️ Jenkins & Kubernetes<br>
+  ☁️ AWS Basics<br>
+  🤖 AI & Machine Learning<br>
+  📊 Data Science
+</p>
+
+</p>
+
+---
+
+## 🛠️ Skills & Tools
 
 ### 👨‍💻 Programming Languages
 <p>
@@ -72,13 +81,13 @@ A simple Book Management System built with Django and Bootstrap.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40"/>
 </p>
 
-### 🗄️ Databases & Backend Services
+### 🗄️ Databases & Backend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40"/>
 </p>
 
-### ⚙️ Tools, DevOps & Design
+### ⚙️ Tools & DevOps
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40"/>
@@ -91,6 +100,18 @@ A simple Book Management System built with Django and Bootstrap.
 
 ---
 
+## 🚀 Projects
+
+### Django Book Management System
+<p>A simple Book Management System built with Django & Bootstrap</p>
+<p>
+  <a href="https://django-project-pwpq.onrender.com">
+    <img src="https://img.shields.io/badge/Live%20Project-View%20Now-brightgreen?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
 ## 🤝 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/karina-paudel-393599215" target="_blank">
@@ -98,6 +119,9 @@ A simple Book Management System built with Django and Bootstrap.
   </a>
   <a href="https://instagram.com/karina_paudel" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:karinapaudel6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
