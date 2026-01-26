@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Karina Paudel</h1>
-<h3 align="center">IT Student | Tech Enthusiast</h3>
+<h3 align="center">IT Student | Tech Enthusiast </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/karina-paudel-393599215">
@@ -21,32 +21,33 @@
 
 ---
 
+<!-- ===================== GITHUB STATS ===================== -->
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=karina-p1&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karina-p1&layout=compact&theme=radical" />
+</p>
+
+---
+
 ## 👩‍💻 About Me
 - 🎓 BIT Student at **Gandaki University**
 - 🌱 Currently learning **Python & Django**
-- 💻 Interested in **Data Analytics, Development & Cybersecurity**
+- 💻 Interested in **Data Analytics, Web Development & Cybersecurity**
 - 🚀 Love building practical academic & personal projects
 - 📍 Based in Nepal 🇳🇵
 
 📫 **Email:** `karinapaudel6@gmail.com`
 
 ---
-## 🚀 My Deployed Projects
+
+## 🚀 My Projects
 
 ### Django Book Management System
 A simple Book Management System built with Django and Bootstrap.  
-Check out my live project here: [View Live on Render](https://django-project-pwpq.onrender.com/)
-
----
-## 🤝 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/karina-paudel-393599215" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/karina_paudel" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-</p>
+**Live Project:** [View on Render](https://django-project-pwpq.onrender.com/)
 
 ---
 
@@ -86,6 +87,18 @@ Check out my live project here: [View Live on Render](https://django-project-pwp
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="40"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/karina-paudel-393599215" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/karina_paudel" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
