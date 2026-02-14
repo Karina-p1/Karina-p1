@@ -106,14 +106,15 @@
 
 ## 🚀 Featured Project
 
-### 📚 Django Book Management System
-A web-based Book Management System developed using **Django & Bootstrap**.
+### 🏨 Django RoomFinder
+A web-based Room Booking & Management System developed using **Django & Bootstrap**.
 
-🔹 CRUD operations  
-🔹 Authentication system  
+🔹 CRUD operations for rooms & bookings  
+🔹 Role-based authentication (Admin / Customer)  
+🔹 Dashboard statistics  
 
 <p>
-  <a href="https://django-project-pwpq.onrender.com">
+  <a href="https://django-roomfinder.onrender.com/">
     <img src="https://img.shields.io/badge/Live%20Project-View%20Now-brightgreen?style=for-the-badge"/>
   </a>
 </p>
