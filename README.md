@@ -1,6 +1,6 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img height="160" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
+  <!-- <img height="160" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" /> -->
 </p>
 
 <h1 align="center">Hi 👋, I'm Karina Paudel</h1>
@@ -106,16 +106,17 @@
 
 ## 🚀 Featured Project
 
-### 🏨 Django RoomFinder
-A web-based Room Booking & Management System developed using **Django & Bootstrap**.
+### 🏠 RoomFinder Nepal
+Nepal's trusted verified room rental marketplace — connecting honest landlords with serious tenants across all provinces. Built with **Django, PostgreSQL & Bootstrap**.
 
-🔹 CRUD operations for rooms & bookings  
-🔹 Role-based authentication (Admin / Customer)  
-🔹 Dashboard statistics  
+🔹 Document-verified landlords & listings  
+🔹 Role-based access (Tenant / Landlord / Admin)  
+🔹 Search, filters & GPS-based listings  
+🔹 Admin analytics dashboard with Chart.js  
 
 <p>
-  <a href="https://django-roomfinder.onrender.com/">
-    <img src="https://img.shields.io/badge/Live%20Project-View%20Now-brightgreen?style=for-the-badge"/>
+  <a href="https://room-finder-yyli.onrender.com/">
+    <img src="https://img.shields.io/badge/Watch%20My%20Latest%20Live%20Project-View%20Now-brightgreen?style=for-the-badge"/>
   </a>
 </p>
 
