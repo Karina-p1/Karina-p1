@@ -27,7 +27,7 @@
 ## 👩‍💻 About Me
 
 🎓 Bachelor of Information Technology (BIT) student at **Gandaki University**  
-💡 Passionate about **Web Development, Data Analytics & Cybersecurity**  
+💡 Passionate about **Full-stack Development, Data Analytics & AI/ML**  
 💻 Strong interest in **Python & Django backend development**  
 🚀 Enjoy building academic and real-world practical projects  
 📍 Based in Nepal 🇳🇵  
